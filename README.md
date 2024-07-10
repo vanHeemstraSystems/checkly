@@ -1,7 +1,11 @@
-repository-name
-# Repository Name
+checkly
+# Checkly
 
-Based on "ABC" at https://www.abc.com/
+> Code-first synthetic monitoring for modern DevOps. Monitor your APIs and apps at a fraction of the price of legacy providers.
+
+Based on "Checkly" at https://checklyhq.com/
+
+Based on "Checkly on YouTube" at https://www.youtube.com/checklyhq
 
 ## 100 - Introduction
 
